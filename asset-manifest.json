@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a07ec5c7.chunk.css",
+    "main.js": "/static/js/main.f129eae2.chunk.js",
+    "main.js.map": "/static/js/main.f129eae2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.fc457e6f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.fc457e6f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2d478d9d.chunk.js": "/static/js/2.2d478d9d.chunk.js",
+    "static/js/2.2d478d9d.chunk.js.map": "/static/js/2.2d478d9d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43e180876fc87663c56137e7eeec1a9e.js": "/precache-manifest.43e180876fc87663c56137e7eeec1a9e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a07ec5c7.chunk.css.map": "/static/css/main.a07ec5c7.chunk.css.map",
+    "static/media/logo_LAKSHMI-1.jpg": "/static/media/logo_LAKSHMI-1.c29aefb6.jpg"
+  }
+}
